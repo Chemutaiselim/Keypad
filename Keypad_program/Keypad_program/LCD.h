@@ -2,7 +2,7 @@
  * HeaderLCD.h
  *
  * Created: 04/11/2021 22:03:50
- *  Author: Default
+ *  Author: Pamela Chemutai
  */ 
 
 
