@@ -2,7 +2,7 @@
  * Keypad_program.c
  *
  * Created: 05/12/2021 17:34:58
- * Author : Default
+ * Author : Pamela Chemutai
  */ 
 
 #include <avr/io.h>
