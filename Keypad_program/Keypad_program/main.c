@@ -15,4 +15,5 @@ int main(void)
     {
     }
 }
-
+/* Keypad array holding the keys in a grid arrangement*/ unsigned char keypad[4][4] = { {'7','8','9','/'}, {'4','5','6','*'}, {'1','2','3','-'}, {' ','0','=','+'}};
+/* Function that checks the key that has been pressed on the keypad
